@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lazissu</string>
+
+    <!-- Bottom Navigation -->
+    <string name="title_home">Home</string>
+    <string name="title_kalkulator">Kalkulator</string>
+    <string name="title_kalender">Kalender</string>
+
+    <!-- Halaman Kalkulator -->
+        <!-- Text View -->
+        <string name="txt_pilih_zakat">Pilih zakat yang ingin anda hitung</string>
+        <!-- Button -->
+        <string name="btn_kalkulator_zakat_penghasilan">Kalkulator Zakat Penghasilan</string>
+        <string name="btn_kalkulator_zakat_harta">Kalkulator Zakat Harta</string>
+
+    <string name="hello_blank_fragment">Home Fragment</string>
+</resources>
